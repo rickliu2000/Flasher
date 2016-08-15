@@ -22,4 +22,7 @@
     </string-array>
 
     <string name="positive_mode">Positive</string>
+    <string name="flasher_version">1.0</string>
+    <string name="flasher_date">20160815</string>
+    <string name="flasher_OSC">Rick Liu</string>
 	</resources>
