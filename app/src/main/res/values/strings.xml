@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Flasher</string>
+    <string name="app_name_selector">File Selector</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_about">About</string>
+
+
+    <string name="zhou_cancel_btn">Cancle</string>
+    <string name="zhou_confirm_btn">OK</string>
+    <string-array name="mode_selects">
+        <item>Recovery</item>
+        <item>Boot</item>
+        
+    </string-array>
+
+    <string-array name="filter_selects">
+        <item>None</item>
+        <item>Image</item>
+        <item>Text</item>
+        <item>Video</item>
+        <item>Audio</item>
+    </string-array>
+
+    <string name="positive_mode">Positive</string>
+	</resources>
