@@ -1,10 +1,12 @@
-package studio.starry.flasher;
+package io.oscs.flasher;
 
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import studio.starry.flasher.R;
 
 public class about extends  ActionBarActivity {
    int ver=1222;

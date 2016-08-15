@@ -1,9 +1,9 @@
-package studio.starry.flasher.config;
+package io.oscs.flasher.config;
 
 import java.io.Serializable;
 
-import studio.starry.flasher.utils.FileFilter;
-import studio.starry.flasher.utils.FileType;
+import io.oscs.flasher.utils.FileFilter;
+import io.oscs.flasher.utils.FileType;
 
 /**
  * 文件选择器的配置类

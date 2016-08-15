@@ -1,4 +1,4 @@
-package studio.starry.flasher;
+package io.oscs.flasher;
 
 import android.app.Activity;
 import android.app.DialogFragment;
@@ -10,7 +10,8 @@ import android.view.ViewGroup;
 
 import java.util.ArrayList;
 
-import studio.starry.flasher.config.FileConfig;
+import studio.starry.flasher.R;
+import io.oscs.flasher.config.FileConfig;
 
 /**
  * 文件选择器Dialog态

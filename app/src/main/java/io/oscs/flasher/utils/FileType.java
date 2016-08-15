@@ -1,4 +1,4 @@
-package studio.starry.flasher.utils;
+package io.oscs.flasher.utils;
 
 /**
  * 文件种类

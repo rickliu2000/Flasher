@@ -1,4 +1,4 @@
-package studio.starry.flasher;
+package io.oscs.flasher;
 
 import android.animation.LayoutTransition;
 import android.content.Context;
@@ -15,13 +15,14 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import studio.starry.flasher.adapter.FileListAdapter;
-import studio.starry.flasher.config.FileConfig;
-import studio.starry.flasher.config.FileTheme;
-import studio.starry.flasher.utils.ColorUtils;
-import studio.starry.flasher.utils.FileFilter;
-import studio.starry.flasher.utils.FileType;
-import studio.starry.flasher.utils.FileUtils;
+import io.oscs.flasher.adapter.FileListAdapter;
+import io.oscs.flasher.config.FileConfig;
+import io.oscs.flasher.config.FileTheme;
+import io.oscs.flasher.utils.FileUtils;
+import studio.starry.flasher.R;
+import io.oscs.flasher.utils.ColorUtils;
+import io.oscs.flasher.utils.FileFilter;
+import io.oscs.flasher.utils.FileType;
 
 /**
  * 文件选择器的核心类

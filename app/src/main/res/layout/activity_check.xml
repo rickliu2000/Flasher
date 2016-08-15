@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="studio.starry.flasher.Flash"
+    tools:context="io.oscs.flasher.Flash"
     android:clickable="true">
 
     <TextView

@@ -1,9 +1,9 @@
-package studio.starry.flasher.utils;
+package io.oscs.flasher.utils;
 
 import java.util.Comparator;
 import java.util.HashMap;
 
-import studio.starry.flasher.FileSelector;
+import io.oscs.flasher.FileSelector;
 
 /**
  * 文件比较的类

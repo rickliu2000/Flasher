@@ -1,4 +1,4 @@
-package studio.starry.flasher.adapter;
+package io.oscs.flasher.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,14 +9,13 @@ import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.util.HashMap;
 import java.util.List;
 
-import studio.starry.flasher.FileSelector;
+import io.oscs.flasher.FileSelector;
 import studio.starry.flasher.R;
-import studio.starry.flasher.utils.FileType;
+import io.oscs.flasher.utils.FileType;
 
 /**
  * Created by zzhoujay on 2014/12/30 0030.

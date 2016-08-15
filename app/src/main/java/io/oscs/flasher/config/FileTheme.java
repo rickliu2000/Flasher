@@ -1,7 +1,6 @@
-package studio.starry.flasher.config;
+package io.oscs.flasher.config;
 
 import java.io.Serializable;
-import java.util.ArrayList;
 
 import studio.starry.flasher.R;
 

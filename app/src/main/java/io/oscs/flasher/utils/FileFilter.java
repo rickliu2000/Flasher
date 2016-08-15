@@ -1,8 +1,8 @@
-package studio.starry.flasher.utils;
+package io.oscs.flasher.utils;
 
 import java.io.Serializable;
 
-import studio.starry.flasher.FileSelector;
+import io.oscs.flasher.FileSelector;
 
 /**
  * 文件过滤的类

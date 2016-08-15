@@ -1,41 +1,27 @@
-package studio.starry.flasher;
+package io.oscs.flasher;
 import android.app.FragmentTransaction;
 import android.content.Intent;
 import android.os.Bundle;
-import android.os.Environment;
 import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
-import android.widget.CheckBox;
-import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.util.Log;
-import android.app.Activity;
-import android.content.Intent;
-import android.os.Bundle;
 
 import java.util.ArrayList;
 
-import studio.starry.flasher.FileSelector;
-import studio.starry.flasher.FileSelectorActivity;
-import studio.starry.flasher.FileSelectorAlertDialog;
-import studio.starry.flasher.FileSelectorDialog;
-import studio.starry.flasher.config.FileConfig;
-import studio.starry.flasher.config.FileTheme;
-import studio.starry.flasher.utils.FileFilter;
+import studio.starry.flasher.R;
+import io.oscs.flasher.config.FileConfig;
+
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
-
-import android.util.Log;
 
 public class Flash extends ActionBarActivity {
       public String ModeSel;

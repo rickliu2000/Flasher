@@ -1,11 +1,11 @@
-package studio.starry.flasher.utils;
+package io.oscs.flasher.utils;
 
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 
-import studio.starry.flasher.FileSelector;
+import io.oscs.flasher.FileSelector;
 
 /**
  * 文件的各种相关的操作

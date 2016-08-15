@@ -1,11 +1,11 @@
-package studio.starry.flasher;
+package io.oscs.flasher;
 
 import android.app.AlertDialog;
 import android.content.Context;
 
 import java.util.ArrayList;
 
-import studio.starry.flasher.config.FileConfig;
+import io.oscs.flasher.config.FileConfig;
 
 /**
  * Created by zzhoujay on 2015/3/13 0013.

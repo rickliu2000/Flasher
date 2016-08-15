@@ -1,4 +1,4 @@
-package studio.starry.flasher;
+package io.oscs.flasher;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,7 +8,8 @@ import android.view.MenuItem;
 
 import java.util.ArrayList;
 
-import studio.starry.flasher.config.FileConfig;
+import studio.starry.flasher.R;
+import io.oscs.flasher.config.FileConfig;
 
 /**
  * 文件选择Activity
